@@ -4,5 +4,4 @@ Be
 Happy
 
 Happiness started to grow on a new branch
-
-Master did this change
+Branch commited this change
